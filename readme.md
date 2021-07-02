@@ -1,3 +1,3 @@
 # TournetAPI
 
-API built using: node.js, express, mongoDB, mongoose
+API built using: node.js, express, mongoDB, mongoose 
